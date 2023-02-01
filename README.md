@@ -4,6 +4,7 @@ Simple increment counter app with an increment and decrement button.
 This app includes:
 - A counter button component
 - A display panel component          
+
 The content of display panel will be automatically refreshed every time the counter value changes upon a click event.
 
           
