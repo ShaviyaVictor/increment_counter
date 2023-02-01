@@ -7,7 +7,7 @@ This app includes:
 The content of display panel will be automatically refreshed every time the counter value changes upon a click event.
 
           
-<img src="#" width="500" height="650" alt="increment_counter">             
+<img src="https://github.com/ShaviyaVictor/increment_counter/blob/main/public/Screenshot%20from%202023-02-01%2016-53-45.png?raw=true" width="500" height="100" alt="increment_counter">             
 
 ## Built With
 
