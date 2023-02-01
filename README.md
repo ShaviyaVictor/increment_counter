@@ -2,10 +2,10 @@
 Simple increment counter app with an increment and decrement button.
 
 This app includes:
-- An increment button
-- A decrement button
-- Text View that gets updated when the buttons are pressed
-- Built using a simple Linear Layout
+- A counter button component
+- A display panel component
+The content of display panel will be automatically refreshed every time the counter value changes upon a click event.
+
           
 <img src="#" width="500" height="650" alt="increment_counter">             
 
