@@ -1,5 +1,11 @@
 # increment_counter
 Simple increment counter app with an increment and decrement button.
+
+This app includes:
+- An increment button
+- A decrement button
+- Text View that gets updated when the buttons are pressed
+- Built using a simple Linear Layout
           
 <img src="#" width="500" height="650" alt="increment_counter">             
 
